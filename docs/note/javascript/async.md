@@ -1,6 +1,5 @@
 ---
 title: 异步操作
-autoGroup-1: 重要内容
 ---
 # JavaScript 之异步操作
 [[toc]]

@@ -1,6 +1,5 @@
 ---
 title: this 使用场景
-autoGroup-1: 重要内容
 ---
 # js 中的 this 使用场景
 [[toc]]

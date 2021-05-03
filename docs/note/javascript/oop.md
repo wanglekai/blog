@@ -1,6 +1,5 @@
 ---
 title: 面向对象编程
-autoGroup-1: 重要内容
 ---
 # OOP 面向对象编程
 ::: tip OOP
