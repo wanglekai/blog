@@ -2,7 +2,7 @@ module.exports = [
   { text: '首页', link: '/' },
   { text: '笔记', 
     items: [
-      {text: 'CSS', link: '/note/css/'},
+      {text: 'algorithm', link: '/note/algorithm/'},
       {text: 'JavaScript', link: '/note/javascript/'},
       {text: 'Vue', link: '/note/vue/'},
       {text: 'NodeJS', link: '/note/nodejs/'},
