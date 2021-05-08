@@ -4,7 +4,7 @@ home: true
 heroImage: '/imgs/road.jpg'
 heroText: 笔记,博客
 tagline: 因上努力,果上随缘
-actionText: Follow me →
+actionText: Enter note →
 actionLink: /note/
 features:
 - title: Readding

@@ -2,8 +2,8 @@
 title: JS-数据结构与算法
 lang: zh
 ---
-**标注一下:** 内容根据 bilibili [coderwhy的JavaScript数据结构与算法](https://www.bilibili.com/video/BV1x7411L7Q7?p=1) 视频中内容，整理的笔记
 # JS-数据结构与算法
+**标注:** 内容根据 bilibili [coderwhy的JavaScript数据结构与算法](https://www.bilibili.com/video/BV1x7411L7Q7?p=1) 视频中内容，整理的笔记
 > 数据结构的概念
 * 数据结构是计算机存储、组织数据的方式
 * 数据结构是指相互之间存在一种或多种特定关系的数据元素的集合
@@ -24,3 +24,4 @@ lang: zh
 > 数据结构的类型
 - [栈结构](./01_stack.html)
 - [队列结构](./02_queue.html)
+- [优先队列](./03_priority_queue.html)
